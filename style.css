@@ -34,7 +34,7 @@
 	}
 	#home{
 		height: 400px;
-		background-image: url(../web/gambar.png);
+		background-image: url(gambar.png);
 		background-size: cover;
 /*		background-attachment: fixed;*/
 		text-align: center;
